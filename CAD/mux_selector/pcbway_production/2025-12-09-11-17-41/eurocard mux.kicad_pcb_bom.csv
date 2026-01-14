@@ -1,6 +1,0 @@
-﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins,Digikey,LCSC Part #
-"D1, D2",2,LED,LED_0805_2012Metric,,,,smt,Light emitting diode,1=K 2=A,,
-"J1, J2, J5",3,1759091,"PhoenixContact_MSTBA_2,5_10-G-5,08_1x10_P5.08mm_Horizontal",,,,tht,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",,,
-"J3, J4",2,0901303112,IDC-Header_2x06_P2.54mm_Horizontal,,,,tht,"Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",,,
-"K1, K2, K3, K4, K5, K6",6,AGQ210A12Z,Relay_2P2T_10x6mm_TE_IMxxG,,,,smt,,,AGQ200S12Z,AGQ200S12Z
-"R1, R2",2,R,R_0805_2012Metric,,,,smt,Resistor,,,

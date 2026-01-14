@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "muxlib_footprints")(type "KiCad")(uri "${KIPRJMOD}/libs/muxlib_footprints.pretty")(options "")(descr ""))
-)
