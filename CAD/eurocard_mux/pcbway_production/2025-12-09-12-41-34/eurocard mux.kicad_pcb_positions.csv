@@ -1,0 +1,16 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+8.0,11.0,90.0,top,D1,,,LED_0805_2012Metric,LTST-C170KRKT,smt
+119.0,12.0,90.0,top,D2,,,LED_0805_2012Metric,LTST-C170KRKT,smt
+84.86,53.2225,180.0,top,J1,,,"PhoenixContact_MSTBA_2,5_10-G-5,08_1x10_P5.08mm_Horizontal",1759091,tht
+57.0,6.7775,180.0,bottom,J2,,,"PhoenixContact_MSTBA_2,5_10-G-5,08_1x10_P5.08mm_Horizontal",1759091,tht
+8.6975,23.65,180.0,top,J3,,,IDC-Header_2x06_P2.54mm_Horizontal,0901303112,tht
+115.3025,23.65,-0.0,bottom,J4,,,IDC-Header_2x06_P2.54mm_Horizontal,0901303112,tht
+112.72,6.7775,180.0,bottom,J5,,,"PhoenixContact_MSTBA_2,5_10-G-5,08_1x10_P5.08mm_Horizontal",1759091,tht
+24.0,28.2,0.0,top,K1,,,Relay_2P2T_10x6mm_TE_IMxxG,AGQ210A12Z,smt
+44.0,28.0,0.0,top,K2,,,Relay_2P2T_10x6mm_TE_IMxxG,AGQ210A12Z,smt
+63.0,28.0,0.0,top,K3,,,Relay_2P2T_10x6mm_TE_IMxxG,AGQ210A12Z,smt
+80.0,28.0,0.0,top,K4,,,Relay_2P2T_10x6mm_TE_IMxxG,AGQ210A12Z,smt
+95.0,28.0,0.0,top,K5,,,Relay_2P2T_10x6mm_TE_IMxxG,AGQ210A12Z,smt
+107.0,28.0,0.0,top,K6,,,Relay_2P2T_10x6mm_TE_IMxxG,AGQ210A12Z,smt
+119.0,16.0,-90.0,top,R1,,,R_0805_2012Metric,1K1,smt
+8.0,14.9375,-90.0,top,R2,,,R_0805_2012Metric,1K1,smt
