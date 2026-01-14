@@ -1,6 +1,6 @@
 # eurocard mux
 
-![HEADER](./PICTURES/eurocard mux_iso.png) <!-- 3D rendered pretty view -->
+![HEADER]("./PICTURES/eurocard mux_iso.png") <!-- 3D rendered pretty view -->
 
 INFO INFO
 
