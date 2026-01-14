@@ -2,7 +2,7 @@
 setlocal
 
 rem ---- CONFIG ----
-set "PROJECT=.\CAD\eurocard_mux\eurocard mux"
+set "PROJECT=.\CAD\eurocard_mux\eurocard_mux"
 set "KICAD_BIN=C:\Program Files\KiCad\9.0\bin"
 rem ----------------
 

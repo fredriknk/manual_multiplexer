@@ -11,10 +11,10 @@ set -euo pipefail
 KICAD_BIN="/usr/bin"
 
 # Project *stem* (without extension), relative to repo root (this script's dir)
-PROJECT_DEFAULT="CAD/Methanesense/Methanesense"
+PROJECT_DEFAULT="CAD/manual_multiplexer/eurocard_mux"
 
 # Vendor for KiKit fab (e.g., jlcpcb, pcbway). Leave empty to skip KiKit.
-VENDOR_DEFAULT="jlcpcb"
+VENDOR_DEFAULT="pcbway"
 
 # Base options for build_outputs.py
 BASE_OPTS=(--no-timestamp --iso --zip)
