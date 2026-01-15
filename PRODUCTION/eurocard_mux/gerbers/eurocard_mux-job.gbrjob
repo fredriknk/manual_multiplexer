@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "9.0.6"
     },
-    "CreationDate": "2026-01-14T11:08:57+01:00"
+    "CreationDate": "2026-01-15T15:36:37+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "eurocard_mux",
       "GUID": "6575726f-6361-4726-945f-6d75782e6b69",
-      "Revision": "1.0.2"
+      "Revision": "1.0.3"
     },
     "Size": {
       "X": 124.15,

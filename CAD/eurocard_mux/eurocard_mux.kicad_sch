@@ -7,7 +7,7 @@
 	(title_block
 		(title "SPI-MUX")
 		(date "2023-02-06")
-		(rev "1.0.1")
+		(rev "1.0.3")
 		(company "NMBU-Mina")
 		(comment 1 "F.N.Beilegaard")
 	)
@@ -3474,10 +3474,10 @@
 		)
 	)
 	(junction
-		(at 279.4 234.95)
+		(at 265.43 234.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0046b683-c0c3-4238-8b1c-3b8d05650f45")
+		(uuid "02b52517-ef0e-472a-95dd-cdf99a927c38")
 	)
 	(junction
 		(at 313.69 118.11)
@@ -3510,16 +3510,16 @@
 		(uuid "9e2efa83-1f6f-4e0d-95ea-ff6d016ca52d")
 	)
 	(junction
+		(at 279.4 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d489c23e-6345-4301-a546-b372a3c49285")
+	)
+	(junction
 		(at 353.06 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e077a299-766b-4204-b0bc-46dc2c0ab046")
-	)
-	(junction
-		(at 265.43 229.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e7da8474-8a78-473c-b7b9-2c647a123342")
 	)
 	(junction
 		(at 313.69 113.03)
@@ -3555,6 +3555,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 234.95) (xy 265.43 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "074d7393-8c12-42e8-af6c-a8c5becf3e7b")
+	)
+	(wire
+		(pts
 			(xy 201.93 76.2) (xy 228.6 76.2)
 		)
 		(stroke
@@ -3562,16 +3572,6 @@
 			(type default)
 		)
 		(uuid "08586013-dfc1-46bb-9e6e-2a028b886d63")
-	)
-	(wire
-		(pts
-			(xy 256.54 229.87) (xy 265.43 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f379b71-8ec0-4728-affe-1fed12b2162e")
 	)
 	(wire
 		(pts
@@ -3632,16 +3632,6 @@
 			(type default)
 		)
 		(uuid "2962b203-54bb-49dd-800d-e00716d30edb")
-	)
-	(wire
-		(pts
-			(xy 265.43 219.71) (xy 265.43 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2bcf5c16-3220-4575-97f7-a152f512621f")
 	)
 	(wire
 		(pts
@@ -3725,13 +3715,13 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 234.95) (xy 279.4 240.03)
+			(xy 279.4 229.87) (xy 279.4 240.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4913ca08-d5b6-4fef-b04c-ce187d60bee2")
+		(uuid "4b25e0d6-931d-4cfb-804a-5b4aaec436eb")
 	)
 	(wire
 		(pts
@@ -3815,6 +3805,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 219.71) (xy 279.4 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63fab181-e594-421a-85cc-f25477f57583")
+	)
+	(wire
+		(pts
 			(xy 172.72 187.96) (xy 204.47 187.96)
 		)
 		(stroke
@@ -3842,6 +3842,16 @@
 			(type default)
 		)
 		(uuid "6829ba53-b5cd-4e51-a553-589c5b304816")
+	)
+	(wire
+		(pts
+			(xy 256.54 234.95) (xy 265.43 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6af61145-55d2-476d-b025-05cebe3ce078")
 	)
 	(wire
 		(pts
@@ -3885,23 +3895,13 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 224.79) (xy 279.4 224.79)
+			(xy 265.43 224.79) (xy 265.43 234.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "79cd2a13-48d9-4392-9b96-440d5f9fcf68")
-	)
-	(wire
-		(pts
-			(xy 256.54 219.71) (xy 265.43 219.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e9c9d91-8d7a-46f0-a9c7-1c37fe74b5ab")
+		(uuid "82dee64d-a26d-49a2-aba4-110f6af21510")
 	)
 	(wire
 		(pts
@@ -4005,7 +4005,7 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 224.79) (xy 279.4 234.95)
+			(xy 279.4 219.71) (xy 279.4 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4045,6 +4045,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 229.87) (xy 279.4 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8833310-c548-4dcb-8c68-b3a5505e4474")
+	)
+	(wire
+		(pts
 			(xy 199.39 73.66) (xy 228.6 73.66)
 		)
 		(stroke
@@ -4075,13 +4085,13 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 234.95) (xy 279.4 234.95)
+			(xy 265.43 224.79) (xy 256.54 224.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bc84c713-9563-4139-a797-c13ae5080e40")
+		(uuid "bd1a2003-b0c0-4854-a5b1-41b10e125bd5")
 	)
 	(wire
 		(pts
@@ -4252,16 +4262,6 @@
 			(type default)
 		)
 		(uuid "e489d2fb-2987-4464-bc97-887ca7cd49db")
-	)
-	(wire
-		(pts
-			(xy 265.43 229.87) (xy 265.43 240.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e76ee117-5979-4263-bf24-c8a036669cae")
 	)
 	(wire
 		(pts
@@ -4884,7 +4884,7 @@
 		(uuid "f18e4c0e-cf3d-4eb4-a552-6f459adc107d")
 	)
 	(label "CHNA"
-		(at 257.81 229.87 0)
+		(at 257.81 219.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7452,7 +7452,7 @@
 			)
 		)
 		(property "Value" "HRFE-10005V"
-			(at 258.064 179.07 0)
+			(at 252.476 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
